@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const TARGET_DATE = new Date("2025-06-06T21:06:00");
+const TARGET_DATE = new Date("2025-06-06T21:58:20");
 
 function Count() {
     const calculateTimeLeft = () => {
