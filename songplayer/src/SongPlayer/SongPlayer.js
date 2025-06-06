@@ -5,13 +5,13 @@ import { useState } from 'react';
 function SongPlayer() {
   const songs=[
     {
-      title:"all of the girls you loved before",artist:"Taylor Swift",file:"/songs/All of the Girls.mp3", pic:"https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png"
+      title:"All of the Girls You Loved Before",artist:"Taylor Swift",file:"/songs/All of the Girls.mp3", pic:"https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png"
     },
     {
       title:"Hits Different",artist:"Taylor Swift",file:"/songs/Hits Different.mp3", pic:"https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0"
     },
     {
-      title:"Get Him Back!",artist:"Olivia Rodrigo",file:"/songs/Need .mp3", pic:"https://upload.wikimedia.org/wikipedia/en/0/03/Olivia_Rodrigo_-_Guts.png"
+      title:"Get Him Back!",artist:"Olivia Rodrigo",file:"/songs/Taylor Swift 1989 Era Mashup.mp3", pic:"https://upload.wikimedia.org/wikipedia/en/0/03/Olivia_Rodrigo_-_Guts.png"
     },
     {
       title:"Nonsense",artist:"Sabrina Carpenter",file:"/songs/Need .mp3", pic:"https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf"
